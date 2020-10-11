@@ -1,2 +1,1 @@
-# hackthebox
-Writeups of retired HackTheBox machines
+# Writeups of retired HackTheBox machines
